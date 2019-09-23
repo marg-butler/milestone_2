@@ -1,0 +1,28 @@
+---
+title: "Milestone 2"
+author: "Margaret Butler"
+date: "9/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+"Trump's Tweets and the Stock Market"
+The project gathered a lot of data and cleaned it so it was accesible and 
+readable. The pros are that this project gathered such a large ammount of data 
+and made it readable. The cons are that the site is not immediately 
+understandable, and I am unsure what the gathered data is saying, even after 
+going through the site for a few minutes. The author clearly put a lot of time 
+into this project, however, and the interactive plot is beautifully done.
+
+
+"Asylum Seekers"
+The pros of this project are that the map and graph exhibit excellent visuals 
+that give site visitors a good graps on the magnitude of asylum seekers to and 
+from certain countries. The map in particular is an impressive visual. The cons 
+to this project are that the intended purpose of the data are only stated in a 
+popup that appears when the site is first opened and is then inaccessible as 
+users browse the site. This is inconvenient for visitors who wish to access that
+information again without exiting or reloading the page.
